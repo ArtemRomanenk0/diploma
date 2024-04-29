@@ -1,0 +1,16 @@
+.footer {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 35px 0;
+  border-top: 1px#0f0e0d solid;
+  .small {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+  }
+}

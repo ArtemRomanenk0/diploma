@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 300px;
+  flex-shrink: 0;
+  flex-grow: 0;
+  max-width: 40%;
+  background-color: #fff;
+  box-shadow: 0 5px 10px 0 rgba(#000, 0.15);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 1rem;
+}
+
+.p {
+  min-width: 160px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #0c0c08;
+}
